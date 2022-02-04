@@ -1,0 +1,27 @@
+h1 {
+  color:blue;
+  font-family:helvetica;
+  background-color: pink;
+  border: 5px solid red;
+  padding: 50px;
+}
+
+#highlight {
+  color: orange;
+}
+
+.top {
+  background-color: red;
+  float: right;
+}
+
+body{
+  background-color:yellow
+}
+
+img{
+  border: 5px solid fuchsia;
+  width: 75%;
+  height: 75%;
+  margin-left: 100px;
+}
